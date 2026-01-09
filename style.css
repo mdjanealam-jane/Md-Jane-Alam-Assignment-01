@@ -28,7 +28,7 @@ body{
 }
 /* navbar */
 .nav{
-    max-width: 1360px;
+    max-width: 1600px;
     height: 152px;
     display: flex;
     justify-content: space-around;
@@ -68,7 +68,7 @@ body{
 /* banner */
 .banner{
     width: 100%;
-    max-width: 1360px;
+    max-width: 1600px;
     height: 674px;
     text-align: center;
     background-image: url(assets/hero-bg.png);
@@ -108,11 +108,11 @@ body{
     
 }
 .banner-info{
-    max-width: 1360px;
+    max-width: 1600px;
     height: 295px;
 }
 .p{
-    max-width: 1360px;
+    max-width: 1600px;
     height: 60px;
     margin: 0 auto;
     font-size: 18px;
@@ -160,7 +160,7 @@ body{
     text-align: center;
 }
 .head-title{
-    max-width: 1360px;
+    max-width: 1600px;
     height: 152px;
     gap: 16px;
 }
@@ -177,11 +177,11 @@ body{
 }
 .all-info-cards{
     display: flex;
-    max-width: 1360px;
+    max-width: 1600px;
     height: 300px;
     gap: 24px;
     justify-content: space-around;
-    margin-bottom: 120px;
+    margin: 44px 120px 48px 120px;
 }
 .info-cards{
     width: 322px;

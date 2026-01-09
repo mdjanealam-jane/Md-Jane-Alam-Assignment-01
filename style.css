@@ -178,10 +178,10 @@ body{
 .all-info-cards{
     display: flex;
     max-width: 1600px;
-    height: 300px;
+    height: auto;
     gap: 24px;
     justify-content: space-around;
-    margin: 44px 120px 48px 120px;
+    padding: 44px 120px 48px 120px;
 }
 .info-cards{
     width: 322px;
@@ -204,7 +204,7 @@ body{
 }
 .info-cards h3{
     max-width: 274px;
-    height: 29px;
+    height: auto;
     font-size: 24px;
     font-weight: 600;
     color: #001931;

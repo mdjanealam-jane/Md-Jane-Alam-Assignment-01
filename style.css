@@ -217,3 +217,46 @@ body{
     line-height: 20px;
     color: #627382;
 }
+/* 3rd page */
+.main{
+    display: flex;
+    width: 100%;
+    max-width: 1600px;
+    height: 840px;
+    align-items: center;
+    padding: 120px;
+    justify-content: space-around;
+}
+.main-image{
+    margin-right: 60px;
+    max-width: 600px;
+    height: 600px;
+}
+.solution{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #469165;
+    margin-bottom: 16px;
+}
+.headline h1{
+    font-size: 48px;
+    font-weight: bold;
+    color: #001931;
+    margin-bottom: 16px;
+}
+.headline p{
+    font-size: 16px;
+    color: #627382;
+    margin-bottom: 40px;
+}
+.list p{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    margin-bottom: 16px;
+    color: #001931;
+}
+.list p i{
+    color: #30B868;
+}
